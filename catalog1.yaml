@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: designsystemfoundations
+  description: Design tokens of JLL Design System
+  tags:
+    - npm
+  links:
+    - url: https://dev.azure.com/JLL-Applications/Jll.Capability.DesignSystem/_artifacts/feed/JLL.Capability/Npm/@jll%2Fjll.capability.designsystem.foundations/versions
+      title: Foundations Package
+      icon: package
+      type: npm package
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: npm package
+  lifecycle: production
+  owner: JLL-DS-Team
+  system: Design System Assets
