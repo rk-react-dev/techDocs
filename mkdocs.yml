@@ -3,6 +3,6 @@ repo_url: https://github.com/backstage/backstage
 edit_uri: blob/master/docs/
 
 nav:
-  - Home: '!import https://github.com/backstage/backstage/blob/master/docs/publishing.md'
+  - 'Docs': 'https://designsystem-dev.jll.com/?path=/story/1-welcome--page'
 plugins:
   - techdocs-core
