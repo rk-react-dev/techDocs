@@ -2,6 +2,7 @@ site_name: 'jll-ds-documentation'
 
 nav:
   - Home: contribution.md
+  - Index: index.md
 
 plugins:
   - techdocs-core
