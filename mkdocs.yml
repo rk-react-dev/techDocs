@@ -1,4 +1,6 @@
 site_name: 'jll-ds-documentation'
+repo_url: https://github.com/backstage/backstage
+edit_uri: blob/master/docs/publishing.md
 
 nav:
   - Home: contribution.md
