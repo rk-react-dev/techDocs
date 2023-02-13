@@ -1,10 +1,9 @@
 site_name: 'jll-ds-documentation'
 repo_url: https://github.com/backstage/backstage
-edit_uri: blob/master/docs/publishing.md
+edit_uri: blob/master/docs/
 
 nav:
-  - Home: contribution.md
-  - Index: index.md
+  - Home: publishing.md
 
 plugins:
   - techdocs-core
